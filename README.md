@@ -2,4 +2,6 @@
 
 Este es mi primer repositorio wuju!
 
-Mi primera contribución locl para GitHub
+Mi primera contribución local para GitHub
+
+Un commit más desde GitHub
