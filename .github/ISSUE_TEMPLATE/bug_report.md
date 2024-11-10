@@ -25,8 +25,8 @@ Si es posible, añade capturas de pantalla o registros de errores.
 
 ### Entorno
 
-- Sistema operativo: [p. ej., Windows 10, macOS Catalina]
-- Navegador y versión: [p. ej., Chrome 87, Safari 14]
+- Sistema operativo: [p. ej., Windows 11, macOS Catalina]
+- Navegador y versión: [p. ej., Microsoft Edge V.130.0.2849.80(64bits)]
 - Versión del proyecto: [p. ej., 1.0.0]
 
 ### Información adicional
